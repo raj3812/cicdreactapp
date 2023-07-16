@@ -6,7 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         This is blog website
-      <div>Work in progress</div>
+      {/* <div>Work in progress</div> */}
+      <div>Work is completed </div>
+      <p>code is updated and we are live now</p>
       </header>
     </div>
   );
