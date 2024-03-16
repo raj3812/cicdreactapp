@@ -10,6 +10,7 @@ function App() {
       <div>Work is completed </div>
       <p>code is updated and we are live now</p>
       <p>Check new details</p>
+      <p>Check new details2</p>
       </header>
     </div>
   );
