@@ -9,6 +9,7 @@ function App() {
       {/* <div>Work in progress</div> */}
       <div>Work is completed </div>
       <p>code is updated and we are live now</p>
+      <p>Check new details</p>
       </header>
     </div>
   );
